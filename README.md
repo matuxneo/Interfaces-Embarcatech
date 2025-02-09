@@ -1,6 +1,7 @@
 # EMBARCATECH 2025 -  Tarefa - Comunicação Serial com RP2040 UART, SPI e I2C
 
 # Aluno: Matuzalém Guimarães Leal - matuinfo@gmail.com
+- link do vídeo: https://youtu.be/Dowdeek_Etk
 
 ## Funcionalidades
 
